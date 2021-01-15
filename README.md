@@ -22,8 +22,8 @@
 
 ## Auditjs/Nexus IQ
 
-npm i -g auditjs
-auditjs iq -a ang9 -h http://localhost:8070 -u admin -p admin123 -s build
+- npm i -g auditjs
+- auditjs iq -a ang9 -h http://localhost:8070 -u admin -p admin123 -s build
 
 
 ## Table of contents
